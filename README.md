@@ -1,4 +1,4 @@
-### Hi, I'm Aiden Escobar
+### Hi, I'm Aiden
 
 - Cloud Architect with a strong preference for Google Cloud
 - I primarily code in Go
