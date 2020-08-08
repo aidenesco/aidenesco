@@ -1,10 +1,10 @@
 ### Hi, I'm Aiden Escobar
 
-- I primarily code in Go
 - Cloud Architect with a strong preference for Google Cloud
+- I primarily code in Go
 - Strong interest in backend applications & service to service communications with gRPC
 
-Find my website [here][https://escocodes.com]
+Find my personal website [here](https://escocodes.com)
 
 <!--
 **aidenesco/aidenesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
