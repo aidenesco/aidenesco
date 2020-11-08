@@ -1,8 +1,9 @@
 ### Hi, I'm Aiden
 
 - Cloud Architect with a preference for Google Cloud
-- I primarily code in Go
-- Strong interest in backend applications & service to service communications with gRPC
+- I primarily use Go
+- Strong interest and specialty in backend applications & service to service communications with gRPC
+- API design + management
 
 <!--
 **aidenesco/aidenesco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
